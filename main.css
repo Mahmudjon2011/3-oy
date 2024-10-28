@@ -1,0 +1,162 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.header{
+    padding: 45px 0;
+    border: 2px solid #dedbdb;
+    background: rgb(255, 255, 255);
+}
+.container{
+    max-width: 1100px;
+    width: 100vh;
+    margin: 0 auto;
+}
+.header__nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.header__btn{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    background-color: transparent;
+    border: none;
+   color: rgb(0, 0, 0);
+   font-family: "Inter";
+}
+.hero{
+    padding-top: 43px;
+    padding-bottom: 65px;
+}
+.hero__wrapper{
+    width: 650px;
+    border: 1px solid rgb(0, 0, 0);
+    border-radius: 50px;
+    margin: 0 auto;
+    background: rgb(255, 255, 255);
+    padding: 60px 56px 34px 56px;
+}
+.hero__top{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 133px;
+}
+.hero__text{
+    color: rgb(240, 64, 15);
+font-family: Inter;
+font-size: 24px;
+font-weight: 700;
+line-height: 29px;
+display: flex;
+align-items: center;
+gap: 10px;
+}
+.hero__title{
+    color: rgb(14, 13, 93);
+font-family: Inter;
+font-size: 48px;
+font-weight: 700;
+line-height: 58px;
+letter-spacing: 0%;
+text-align: center;
+margin-bottom: 18px;
+}
+.hero__btns{
+    border-radius: 28px;
+    background: rgb(255, 255, 255);
+    width: 100%;
+
+
+    border: 1px solid rgb(255, 255, 255);
+    display: flex;
+    align-items: center;
+    justify-content:space-between ;
+    padding: 10px 0px;
+}
+.hero__btn1{
+    width: 255px;
+    color: rgb(0, 0, 0);
+font-family: Inter;
+font-size: 28px;
+font-weight: 500;
+line-height: 34px;
+border: none;
+background-color: transparent;
+transition: 0,5s ease-in-out;
+padding: 10px 0px;
+}
+.hero__btn1:hover{
+    background-color: white;
+    border-radius: 20px;
+    
+}
+
+
+.mars__spase{
+    width: 540px;
+    height: 76px;
+    box-sizing: border-box;
+    border: 1px solid rgb(0, 0, 0);
+    border-radius: 20px;
+    font-weight: 500%;
+    margin: 0 auto;
+    background: rgb(255, 255, 255);
+    padding: 15px;
+    margin-top: 30px;
+    font-size: 29px;
+  
+}
+
+ 
+ 
+
+
+
+
+
+.hero__didle{
+    width: 540px;
+    height: 76px;
+    box-sizing: border-box;
+    border: 1px solid rgb(0, 0, 0);
+    border-radius: 20px;
+    font-weight: 500%;
+    margin: 0 auto;
+    background: rgb(255, 255, 255);
+    padding: 15px;
+    margin-top: 30px;
+    font-size: 29px;
+    
+}
+.mars{
+    width: 255px;
+color: rgb(0, 0, 0);
+font-family: Inter;
+font-size: 28px;
+font-weight: 500;
+line-height: 34px;
+border: none;
+background-color: transparent;
+transition: 0,5s ease-in-out;
+padding: 10px 0px;
+}
+.h3{
+font-size: 30px;
+color: black;
+}
+.combo{
+    color:white;
+    background-color: red;
+    font-size: 20px;
+}
+
+
+
+
+
+
+
